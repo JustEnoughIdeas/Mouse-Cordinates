@@ -4,7 +4,7 @@ To close script press: Esc(Escape)
 
 If you want to change key to exit app just replace "Esc::" to "[You key]::", for example "Esc::" to "A::".
 
-
+----------------------------------------------------------------------------------------------------------
 
 Mouse Cords 2.0
 A better version of Mouse Cords.
